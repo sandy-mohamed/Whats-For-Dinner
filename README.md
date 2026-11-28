@@ -8,6 +8,26 @@ What's For Dinner helps users discover delicious meal ideas and explore ingredie
 
 **[View Live Website](https://sandy-mohamed.github.io/Whats-For-Dinner/)**
 
+## 📸 Screenshots
+
+### Recipe Ingredients
+![Recipe view: ingredients tab](screenshots/01-recipe-ingredients.png)
+
+### Cooking Instructions
+![Recipe view: instructions tab](screenshots/02-recipe-instructions.png)
+
+### Nutrition Facts
+![Recipe view: nutrition tab](screenshots/03-nutrition.jpg)
+
+### Chef's Tips
+![Recipe view: chef's tips tab](screenshots/04-chefs-tips.png)
+
+### Shrimp Pad Thai
+![Shrimp Pad Thai recipe](screenshots/05-shrimp-pad-thai.png)
+
+### Classic Caesar Salad
+![Classic Caesar Salad recipe](screenshots/06-caesar-salad.png)
+
 ## ✨ Features
 
 - 🍲 Explore 8 different recipes with food photography
